@@ -1,0 +1,23 @@
+.photo-box {
+  width: 234px;
+  height: 234px;
+  background: url("/src/assets/imgs/m01.png") no-repeat center;
+}
+
+.photo-created-date-box {
+  position: absolute;
+  top: 202px;
+  height: 32px;
+  width: 120px;
+  background-color: yellow;
+}
+
+.photo-created-date {
+  padding: 8px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0.15px;
+}
+
+

@@ -1,0 +1,22 @@
+.record-box {
+  box-sizing: border-box;
+  width: 288px;
+  height: 288px;
+  border: 20px solid yellow;
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url("/src/assets/imgs/MyRecommend-1.png") no-repeat center;
+}
+
+.record-header {
+  color: yellow;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 20px;
+}
+
+.record-subheader {
+  background-color: orange;
+  padding: 5px 15px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}

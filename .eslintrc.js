@@ -4,8 +4,8 @@ module.exports = {
     "extends": [
         "airbnb",
         "prettier",
-        "eslint:recommended", 
-        "plugin:react/recommended", 
+        "eslint:recommended",
+        "plugin:react/recommended",
         "plugin:prettier/recommended"
     ],
     "plugins": [

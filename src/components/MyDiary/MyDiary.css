@@ -14,10 +14,8 @@
 .my-diary-datetime-text {
   width: 147px;
   height: 48px;
-}
-
-.my-diary-datetime-text-span {
-  display: block;
+  display: flex;
+  flex-direction: column;
 }
 
 .my-diary-notes {
@@ -29,6 +27,3 @@
   letter-spacing: 0.06px;
   margin: 16px;
 }
-
-
-

@@ -1,12 +1,12 @@
-import React from "react";
-import Record from "./components/Record/Record.js";
+import React from 'react';
+import Column from './components/Column/Column.js';
 
-const App = () =>{
+const App = () => {
   return (
     <>
-      <Record />
+      <Column />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;

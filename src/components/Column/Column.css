@@ -1,0 +1,50 @@
+.column-box {
+  width: 234px;
+  height: 224px;
+  background: url('/src/assets/imgs/マスクグループ-2.png') no-repeat;
+}
+
+.column-box-img {
+  width: 234px;
+  height: 144px;
+  position: relative;
+}
+
+.column-box-img-datetime {
+  position: absolute;
+  top: 120px;
+  width: 144px;
+  height: 24px;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffcc21;
+}
+
+.column-box-img-text-span {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.column-box-img-meaning {
+  width: 232px;
+  height: 48px;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0.08px;
+  color: #414141;
+  margin-top: 10px;
+}
+
+.column-box-img-hashtag {
+  width: 232px;
+  height: 24px;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0.06px;
+  color: #ff963c;
+}
